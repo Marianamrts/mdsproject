@@ -2,7 +2,7 @@ Projeto de Métodos de desenvolvimento de Software.
 
 Este projeto, tem como objetivo a apresentação do responsável, a idéia era criar algo parecido com um "blog" pessoal.
 
-Este projeto foi desenvolvido utilizando React, JavaScript e CSS.
+Este projeto foi desenvolvido utilizando React, JavaScript, HTML e CSS.
 
 Para utilização/visualização, você precisa clonar esse repositório em sua máquina, instalar as dependências utilizando o comando "npm install" e logo em seguida rodando o mesmo, utilizando "npm start" ou "react-scripts start".
 
